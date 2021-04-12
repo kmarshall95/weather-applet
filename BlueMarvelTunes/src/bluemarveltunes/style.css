@@ -1,0 +1,52 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 27, 2018, 1:57:21 PM
+    Author     : King K
+*/
+.button{
+    /*no color for each button*/
+    -fx-background-color: transparent;
+}
+#openFile{
+    -fx-background-image: url("../images/if_icon-folder_211608.png");
+    -fx-background-size:contain;
+    -fx-background-position: center center;
+    -fx-background-repeat: no-repeat;
+}
+#playbtn{
+    -fx-background-image: url("../images/if_icon-play_211876.png");
+    -fx-background-size:contain;
+    -fx-background-position: center center;
+    -fx-background-repeat: no-repeat;
+}
+#stopbtn{
+    -fx-background-image: url("../images/if_icon-stop_211931.png");
+    -fx-background-size:contain;
+    -fx-background-position: center center;
+    -fx-background-repeat: no-repeat;
+}
+#fastbtn{
+
+}
+#slowbtn{   
+}
+#fasterbtn{
+}
+#slowerbtn{
+}
+#exit{
+    -fx-background-image: url("../images/if_icon-close_211652.png");
+    -fx-background-size:contain;
+    -fx-background-position: center center;
+    -fx-background-repeat: no-repeat;
+}
+#pausebtn{
+    -fx-background-image: url("../images/if_icon-pause_211871.png");
+    -fx-background-size:contain;
+    -fx-background-position: center center;
+    -fx-background-repeat: no-repeat;
+}
